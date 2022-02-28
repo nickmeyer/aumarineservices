@@ -1,0 +1,79 @@
+
+
+.big-text span{
+	border-left:3px solid #bd2035;
+	border-right:3px solid #bd2035;
+}
+ul.slimmenu li a:hover {
+    border-bottom:1px solid #bd2035;
+}
+ul.slimmenu li ul li a:hover {
+    border-bottom:1px solid #bd2035;
+}
+.list-social li.icon-soc a {
+	color: #bd2035;
+}
+.line-drawing path {
+	stroke: #bd2035;
+}
+h1 span:before  {
+	color: #bd2035;
+}
+h1 span:after  {
+	color: #bd2035;
+}
+.team-social li.icon-team a {
+	color:#bd2035;
+}
+.facts-wrap-num{
+	color:#bd2035;
+}
+.portfolio-box h4{
+	color:#bd2035;
+}
+#action p {
+	color:#bd2035;
+}
+.pace .pace-progress {
+  background: #bd2035;
+}
+.pace .pace-progress-inner {
+  box-shadow: 0 0 10px #bd2035, 0 0 5px #bd2035;
+}
+.pace .pace-activity {
+  border-top-color: #bd2035;
+  border-left-color: #bd2035;
+}
+.icon-left1{
+	color:#bd2035;
+}
+.icon-right1{
+	color:#bd2035;
+}
+.services-offer .services-icon{
+	color:#bd2035;
+}
+.services-offer .services-link:hover{
+	background:#bd2035;
+}
+.featured{
+	border-top:3px solid #bd2035;
+}
+.services-offer:hover{
+	border-top:3px solid #bd2035;
+}
+.icon-contact1{
+	color:#bd2035;
+}
+.icon-footer{
+	color:#bd2035;
+}
+.icon-test  {
+	color:#bd2035;
+}
+.bx-wrapper .bx-controls-direction a {
+	background-color:#bd2035;
+}
+#footer .back-top{
+	color:#bd2035;
+}
