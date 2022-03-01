@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/wx88nyawp3v3/www/
-- /bin/cp -R dist/* $DEPLOYPATH
+- /bin/cp -R $DEPLOYPATH
