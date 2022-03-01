@@ -2344,7 +2344,10 @@ iframe{
 ================================================== */
 
 @media only screen and (max-width: 800px) {
-h1 { font-size: 28px; line-height:28px; }
+h1 {
+	font-size: 28px;
+	line-height:28px;
+ }
 
 .big-text {
 	margin-top:-30px;
@@ -2597,7 +2600,7 @@ ul.slimmenu li > ul {
 @media only screen and (max-width: 319px) {
 .big-text {
  margin-top:-40px;
- font-size: .55rem;
+ font-size: 2rem;
 }
 .big-text span{
 	padding-left:.3rem;

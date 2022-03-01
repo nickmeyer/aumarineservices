@@ -10,7 +10,7 @@ clean:
 	npm install
 
 start:
-	rm -rf www
+	rm -rf src
 	npm start
 
 build:
