@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/wx88nyawp3v3/public_html/
+- /bin/cp -R dist/* $DEPLOYPATH
